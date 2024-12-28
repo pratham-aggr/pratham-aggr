@@ -1,16 +1,26 @@
-## Hi there 👋
+# `Hello World!` 👋  
 
-<!--
-**pratham-aggr/pratham-aggr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at the **University of California San Diego** 🔱, currently diving deep into the art and science of turning data into impactful insights. I love exploring the intersection of technology, research, and creativity to solve complex problems and build meaningful projects.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🔭 **Current Focus:** Currently learning unsupervised learning techniques such as clustering and dimensionality reduction, and working on analyzing qualitative data, including images and text, to extract meaningful insights.
+- 🌱 **Learning Goals:** Building skills in NLP, computer vision, and advanced machine learning techniques.  
+- 🚀 **Aspiration:** To contribute to projects where AI meets real-world challenges, creating innovative solutions for unstructured data problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💻 Skills & Tools  
+- **Programming Languages:** Python, Pandas, BeautifulSoup, and more.  
+- **Tech I Enjoy Using:** Data wrangling, TF-IDF text analysis, and exploratory data analysis.  
+- **Research Interests:** Computational models, predictive analytics, and data-driven problem solving in unconventional domains.  
+
+
+
+## 📈 Fun Facts & Goals  
+- 🧠 I’m passionate about solving problems through research and experimentation.  
+- ✨ I love astrophysics, math challenges, and anything that involves unraveling mysteries with data.  
+- 📅 **Goals for 2025:** Contribute to open-source projects, expand my machine learning portfolio, and explore neural networks.  
+
+
+### 🤝 Collaborations Welcome!  
+Feel free to explore my repositories, give feedback, or reach out to collaborate on interesting data-driven projects. Let’s build something amazing together! 💡✨  

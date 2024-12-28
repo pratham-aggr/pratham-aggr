@@ -8,12 +8,9 @@ I'm a Data Science student at the **University of California San Diego** 🔱, c
 - 🚀 **Aspiration:** To contribute to projects where AI meets real-world challenges, creating innovative solutions for unstructured data problems.  
 
 
-
-## 💻 Skills & Tools  
-- **Programming Languages:** Python, Pandas, BeautifulSoup, and more.  
+## 💻 Skills & Tools   
 - **Tech I Enjoy Using:** Data wrangling, TF-IDF text analysis, and exploratory data analysis.  
 - **Research Interests:** Computational models, predictive analytics, and data-driven problem solving in unconventional domains.  
-
 
 
 ## 📈 Fun Facts & Goals  

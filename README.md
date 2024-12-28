@@ -19,8 +19,6 @@ I'm a Data Science student at the **University of California San Diego** 🔱, c
 ## 📈 Fun Facts & Goals  
 - 🧠 I’m passionate about solving problems through research and experimentation.  
 - ✨ I love astrophysics, math challenges, and anything that involves unraveling mysteries with data.  
-- 📅 **Goals for 2025:** Contribute to open-source projects, expand my machine learning portfolio, and explore neural networks.  
-
 
 ### 🤝 Collaborations Welcome!  
 Feel free to explore my repositories, give feedback, or reach out to collaborate on interesting data-driven projects. Let’s build something amazing together! 💡✨  

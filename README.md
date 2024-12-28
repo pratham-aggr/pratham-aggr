@@ -1,6 +1,6 @@
 # `Hello World!` 👋  
 
-I'm a Data Science student at the **University of California San Diego** 🔱, currently diving deep into the art and science of turning data into impactful insights. I love exploring the intersection of technology, research, and creativity to solve complex problems and build meaningful projects.  
+I'm a **Data Science** student at the **University of California San Diego** 🔱, currently diving deep into the art and science of turning data into impactful insights. I love exploring the intersection of technology, research, and creativity to solve complex problems and build meaningful projects.  
 
 ## 🌟 About Me  
 - 🔭 **Current Focus:** Currently learning unsupervised learning techniques such as clustering and dimensionality reduction, and working on analyzing qualitative data, including images and text, to extract meaningful insights.

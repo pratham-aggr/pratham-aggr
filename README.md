@@ -1,74 +1,70 @@
-👋 Hello, I'm Pratham Aggarwal!
+# 👋 Hi, I'm Pratham Aggarwal
+
+🎓 Data Science @ UC San Diego | 📊 ML & Quant Finance Enthusiast | 🌍 Climate + AI Researcher
 
 <p align="left">
   <a href="https://linkedin.com/in/pratham-agg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://pratham-aggr.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=git&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-I'm a Data Science student at the University of California San Diego 🔱, passionate about leveraging machine learning and quantitative analysis to solve complex problems. From developing deep reinforcement learning agents for financial trading to analyzing climate data at the Scripps Institution of Oceanography, I thrive at the intersection of data-driven research and real-world impact.
+I'm a passionate data scientist driven by curiosity and impact. Whether it's optimizing stock trading strategies with deep reinforcement learning or modeling climate dynamics, I strive to turn data into actionable insights with lasting value.
 
 ---
 
-🚀 **What I'm Focused On**
+## 🚀 Current Focus
 
-🔬 **Research**: As a Data Science Researcher at the Scripps Institution of Oceanography, I'm currently preprocessing large-scale climate datasets and developing custom evaluation metrics to benchmark the physical plausibility of machine learning models.
+- 🔬 **Climate AI Research** @ *Scripps Institution of Oceanography*  
+  Designing custom evaluation metrics and preprocessing high-resolution climate datasets to assess the physical realism of ML models.
 
-📈 **Quantitative Finance**: I recently finished an internship where I built an LSTM-based stock prediction model and a Deep Reinforcement Learning agent that boosted options trading returns by 12% for a $1.3M student-run fund.
+- 💹 **Quantitative Finance**  
+  Built LSTM-based predictors and DRL agents to boost options trading returns by **12%** for a $1.3M fund.
 
-🌱 **Learning**: I'm continuously diving deeper into Natural Language Processing (NLP), Computer Vision, and advanced ML techniques to tackle challenges with unstructured data.
+- 🤖 **Advanced Machine Learning**  
+  Exploring cutting-edge techniques in NLP, CV, and generative modeling to work with unstructured, high-dimensional data.
 
 ---
 
-🛠️ **Tech & Tools**
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-🏆 **Featured Projects**
+## 🧠 Highlight Projects
 
 <details>
-  <summary>🥇 <strong>Hackathon Winner | Geospatial ML & CV for Homeless Services</strong></summary>
-  <br>
-  I led the development of an ML forecasting system that won a hackathon against 100+ professionals. Our solution used 35+ geospatial, transit, and demographic features to strategically identify optimal locations for homeless service centers in San Diego with 67% accuracy. We also deployed a real-time computer vision system using Oxen.ai and EyePop.ai to provide live monitoring and precise demand insights.
+  <summary><strong>🏆 Hackathon Winner | ML + CV for Homeless Services</strong></summary>
+  Developed a forecasting system using 35+ geospatial & demographic features to optimize homeless shelter placement with 67% accuracy. Integrated a real-time CV pipeline using Oxen.ai for demand estimation.
 </details>
 
 <details>
-  <summary>🔭 <strong>Astrophysics | Simulating Black Hole Evolution</strong></summary>
-  <br>
-  In a 20-week, PhD-supervised research project, I simulated the growth trajectories of over 100 black hole seed scenarios. By analyzing 20 million years of data with Eddington accretion models, my visualizations demonstrated that a seed's initial mass can impact its growth rate by up to 40%.
+  <summary><strong>🔭 Black Hole Growth Simulation</strong></summary>
+  Simulated and visualized the evolution of black holes across 20M years using Eddington models—revealing that initial mass impacts growth rate by up to 40%.
 </details>
 
 <details>
-  <summary>💡 <strong>Predictive Modeling | Building Energy Load Forecasting</strong></summary>
-  <br>
-  I engineered a multiple linear regression model that achieved 91% accuracy in predicting building heating and cooling loads. By applying k-means clustering, I identified distinct energy consumption patterns, leading to strategies that improved energy efficiency and reduced operational costs by 15%.
+  <summary><strong>🔋 Building Energy Forecasting</strong></summary>
+  Engineered a multiple regression model (91% R²) for predicting energy loads, paired with k-means clustering to inform 15% operational cost reductions.
 </details>
 
 ---
 
-📊 **My GitHub Stats**
+## 🤝 Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-aggr&show_icons=true&theme=tokyonight&rank_icon=github" alt="Pratham's GitHub Stats"/>
-</p>
+I’m always excited to collaborate on meaningful data-driven projects, from AI research to fintech applications. Feel free to explore my work and [reach out](https://linkedin.com/in/pratham-agg)!
 
 ---
-
-🤝 **Let's Connect!**
-
-I'm always open to discussing new ideas, research opportunities, or collaborating on exciting data-driven projects. Feel free to explore my repositories and reach out!

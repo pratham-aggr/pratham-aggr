@@ -1,70 +1,137 @@
-# 👋 Hi, I'm Pratham Aggarwal
+# Hi there, I'm Pratham Aggarwal 👋
 
-🎓 Data Science @ UC San Diego | 📊 ML & Quant Finance Enthusiast | 🌍 Climate + AI Researcher
-
-<p align="left">
-  <a href="https://linkedin.com/in/pratham-agg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://pratham-aggr.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=git&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-I'm a passionate data scientist driven by curiosity and impact. Whether it's optimizing stock trading strategies with deep reinforcement learning or modeling climate dynamics, I strive to turn data into actionable insights with lasting value.
-
----
-
-## 🚀 Current Focus
-
-- 🔬 **Climate AI Research** @ *Scripps Institution of Oceanography*  
-  Designing custom evaluation metrics and preprocessing high-resolution climate datasets to assess the physical realism of ML models.
-
-- 💹 **Quantitative Finance**  
-  Built LSTM-based predictors and DRL agents to boost options trading returns by **12%** for a $1.3M fund.
-
-- 🤖 **Advanced Machine Learning**  
-  Exploring cutting-edge techniques in NLP, CV, and generative modeling to work with unstructured, high-dimensional data.
+<div align="center">
+ 
+ ### 🎓 Data Science @ UC San Diego | 📊 ML & Quant Finance Enthusiast | 🌍 Climate + AI Researcher
+ 
+ <p>
+   <a href="https://linkedin.com/in/pratham-agg" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+   <a href="https://pratham-aggr.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+   </a>
+   <a href="mailto:pratham@example.com">
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   </a>
+ </p>
+ 
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+I'm a passionate **data scientist** driven by curiosity and impact. Whether it's optimizing stock trading strategies with deep reinforcement learning or modeling climate dynamics, I strive to turn data into actionable insights with lasting value.
+
+> *"Transforming complex data into simple, powerful solutions that matter."*
 
 ---
 
-## 🧠 Highlight Projects
+## 🔬 Current Focus Areas
 
-<details>
-  <summary><strong>🏆 Hackathon Winner | ML + CV for Homeless Services</strong></summary>
-  Developed a forecasting system using 35+ geospatial & demographic features to optimize homeless shelter placement with 67% accuracy. Integrated a real-time CV pipeline using Oxen.ai for demand estimation.
-</details>
+<table>
+<tr>
+<td width="50%">
 
-<details>
-  <summary><strong>🔭 Black Hole Growth Simulation</strong></summary>
-  Simulated and visualized the evolution of black holes across 20M years using Eddington models—revealing that initial mass impacts growth rate by up to 40%.
-</details>
+### 🌍 **Climate AI Research**
+*Scripps Institution of Oceanography*
+- Designing custom evaluation metrics for ML climate models
+- Preprocessing high-resolution climate datasets
+- Assessing physical realism of AI predictions
 
-<details>
-  <summary><strong>🔋 Building Energy Forecasting</strong></summary>
-  Engineered a multiple regression model (91% R²) for predicting energy loads, paired with k-means clustering to inform 15% operational cost reductions.
-</details>
+</td>
+<td width="50%">
+
+### 💹 **Quantitative Finance**
+*$1.3M Fund Performance*
+- Built LSTM-based market predictors
+- Developed DRL trading agents
+- **12% boost** in options trading returns
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+ 
+### 🤖 **Advanced Machine Learning**
+*Exploring cutting-edge techniques in NLP, Computer Vision, and Generative AI*
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠️ Tech Arsenal
 
-I’m always excited to collaborate on meaningful data-driven projects, from AI research to fintech applications. Feel free to explore my work and [reach out](https://linkedin.com/in/pratham-agg)!
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Cloud & Infrastructure**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
 
 ---
+
+## 🏆 Featured Projects
+
+### 🥇 **ML + CV for Homeless Services** | *Hackathon Winner*
+## 🎯 What I'm Learning
+
+- **Advanced Deep Learning**: Transformers, GANs, and Neural ODEs
+- **MLOps**: Model deployment, monitoring, and lifecycle management  
+- **Quantum Computing**: Exploring applications in optimization and ML
+- **Climate Modeling**: Physics-informed neural networks for environmental data
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to collaborate on **meaningful data-driven projects**, from AI research to fintech applications. 
+
+**Open to opportunities in:**
+- 🧬 Research collaborations
+- 💼 Data science consulting
+- 🚀 Open source contributions
+- 🎓 Mentoring & knowledge sharing
+
+<br>
+
+**📧 Feel free to reach out and let's build something amazing together!**
+
+<a href="https://linkedin.com/in/pratham-agg">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+*"In data we trust, in insights we act, in impact we measure success."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=pratham-aggr&color=brightgreen&style=for-the-badge)
+
+</div>

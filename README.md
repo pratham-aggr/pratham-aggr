@@ -1,7 +1,6 @@
 # `Hello World!` ðŸ‘‹Â 
 I'm a **Data Science** student at the **University of California San Diego** ðŸ”±, currently diving deep into the art and science of turning data into impactful insights. I love exploring the intersection of technology, research, and creativity to solve complex problems and build meaningful projects.Â 
 ## Tech Stack  
-<!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -10,8 +9,6 @@ I'm a **Data Science** student at the **University of California San Diego** ðŸ”
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-<!-- AI / ML -->
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -19,8 +16,6 @@ I'm a **Data Science** student at the **University of California San Diego** ðŸ”
 ![GitHub Copilot](https://img.shields.io/badge/GITHUB%20COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/CURSOR-00AEEF?style=for-the-badge&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/CLAUDE%20CODE-9966FF?style=for-the-badge&logoColor=white)
-
-<!-- Data / Visualization -->
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -28,8 +23,6 @@ I'm a **Data Science** student at the **University of California San Diego** ðŸ”
 ![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-<!-- Cloud / DevOps -->
 ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -38,8 +31,6 @@ I'm a **Data Science** student at the **University of California San Diego** ðŸ”
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Other Tech (from projects & exp) -->
 ![Monte Carlo](https://img.shields.io/badge/MONTE%20CARLO-003B57?style=for-the-badge&logoColor=white)
 ![Volatility Modeling](https://img.shields.io/badge/VOLATILITY%20MODELING-990000?style=for-the-badge&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/REINFORCEMENT%20LEARNING-FF6F61?style=for-the-badge&logoColor=white)

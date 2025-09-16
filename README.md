@@ -39,8 +39,7 @@ I'm a **Data Science** student at the **University of California San Diego** �
 ![Regression Analysis](https://img.shields.io/badge/REGRESSION%20ANALYSIS-006400?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF4088?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![IR/RecSys](https://img.shields.io/badge/IR%20%2F%20RECSYS-3366CC?style=for-the-badge&logoColor=white)
-![OpenCV]([https://img.shields.io/badge/COMPUTER%20VISION-FF9900?style=for-the-badge&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white))
-
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 ## 🌟 About Me 
